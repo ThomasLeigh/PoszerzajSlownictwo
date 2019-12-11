@@ -1,7 +1,7 @@
 Poszerzaj słownictwo. ^(język polski)^
 =======================
 
-> Od wersji *2.5* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan ("kamienie milowe").
+> Od wersji *2.5* baza aktualizowana jest znacznie częściej, a co trzy miesiące kontrolnie rejestrowany jej stan („kamienie milowe”).
 
 > **najnowsza wersja (plik *"Poszerzaj słownictwo - PL » « PL.apkg"*):**   
 https://github.com/ThomasLeigh/PoszerzajSlownictwo
@@ -9,8 +9,8 @@ https://github.com/ThomasLeigh/PoszerzajSlownictwo
 > historia aktualizacji:   
 https://github.com/ThomasLeigh/PoszerzajSlownictwo/commits/master
 
-> "kamienie milowe":  
-**v.2.5 - 14.09.2019 | 672 karty.**  
+> „kamienie milowe”:  
+**v.2.6 - 11.12.2019 | 683 karty.**  
 https://github.com/ThomasLeigh/PoszerzajSlownictwo/releases
 
 > Przydatne informacje (metoda nauki, program Anki, itp.):    
@@ -18,9 +18,9 @@ https://github.com/ThomasLeigh/PoszerzajSlownictwo
 
 
 
-> "Musimy formować nasze słowa, aż staną się cieniusieńką tylko osłonką dla naszych myśli." ^(Virginia Woolf, *"Orlando"*)^
+> „Musimy formować nasze słowa, aż staną się cieniusieńką tylko osłonką dla naszych myśli”. ^(Virginia Woolf, *„Orlando”*)^
 
-> "(...) w tej klasie zamierzamy nauczyć się pokochać słowa... i ich znaczenie". ^(film *"Podaj dalej"*)^
+> „(...) w tej klasie zamierzamy nauczyć się pokochać słowa... i ich znaczenie”. ^(z filmu *„Podaj dalej”*)^
 
 
 
@@ -32,7 +32,7 @@ https://github.com/ThomasLeigh/PoszerzajSlownictwo
 
 **Jeśli tak, niniejsza baza może Cię zainteresować :) .**
 
-Zbiór *"Poszerzaj słownictwo"* jest publikowany w formie tzw. "bazy/talii" dla programu *Anki*. Pokrótce, jest to darmowy (poza wersją na *iPhone*) program, dzięki któremu możesz przyswajać nowe słownictwo **szybko, łatwo i efektywnie**. Z pomocą *Anki'ego* możesz uczyć się tak słówek z ojczystego, jak i obcego języka - nic nie stoi na przeszkodzie, aby wykorzystywać go również do nauki jakichkolwiek terminów, dat, itp. (świetnie przydatne np. do nauki w szkole).
+Zbiór *„Poszerzaj słownictwo”* jest publikowany w formie tzw. „bazy/talii” dla programu *Anki*. Pokrótce, jest to darmowy (poza wersją na *iPhone*) program, dzięki któremu możesz przyswajać nowe słownictwo **szybko, łatwo i efektywnie**. Z pomocą *Anki'ego* możesz uczyć się tak słówek z ojczystego, jak i obcego języka - nic nie stoi na przeszkodzie, aby wykorzystywać go również do nauki jakichkolwiek terminów, dat, itp. (świetnie przydatne np. do nauki w szkole).
 
 **Jeśli chcesz dowiedzieć się więcej nt. samej metody:**
 - [błyskotliwy sposób na przyswajanie nowego słownictwa][1] - *Anki* w audycji *Thomas Cafe*,
@@ -55,18 +55,18 @@ W niniejszej bazie znajdziesz niesztampowe słownictwo z przeróżnych dziedzin,
 
 - terminologię z języka literackiego,
 - garść minerałów :) ,
-- terminy nieco już archaiczne (jak np. *"alkowa"*, *"etażerka"*, czy inne znaczenia *"garnituru"* - nie mające nic wspólnego z ubiorem ;) ),
+- terminy nieco już archaiczne (jak np. *„alkowa”*, *„etażerka”*, czy inne znaczenia *„garnituru”* - nie mające nic wspólnego z ubiorem ;) ),
 - terminy informatyczne (dowiesz się przykładowo, jaką maksymalną prędkość oferuje standard transmisji danych *LTE*),
 - terminy motoryzacyjne (głównie rodzaje samochodów),
-- terminy kulinarne (np. *"Frappucino"*, *"Frappé"*, *panini*, *suflet*...),
+- terminy kulinarne (np. *„Frappucino”*, *„Frappé”*, *panini*, *suflet*...),
 - dowiesz się też np., jak długo gotować jajka na twardo/miękko, oraz jak przeliczają się przykładowe stopnie *Celsjusza* na *Fahrenheita* :) );
 
 
 ## Instalacja.
 1. Pobierz i zainstaluj ([z tej strony][7]) program *Anki* na Twoim komputerze (*Windows*, *GNU/Linux* lub *Mac*).
-2. Pobierz najnowszą wersję bazy *"Poszerzaj słownictwo"* (plik *"Poszerzaj słownictwo - PL » « PL.apkg"* [z tej strony][6]).
+2. Pobierz najnowszą wersję bazy *„Poszerzaj słownictwo”* (plik *„Poszerzaj słownictwo - PL » « PL.apkg”* [z tej strony][6]).
 3. Otwórz program *Anki* na komputerze i wybierz z menu *Plik ➜ Importuj*.
-4. Zlokalizuj pobrany plik *"Poszerzaj słownictwo - PL » « PL.apkg"*, zaznacz go i kliknij przycisk *"Otwórz"*. Talia powinna zostać zaimportowana.
+4. Zlokalizuj pobrany plik *„Poszerzaj słownictwo - PL » « PL.apkg”*, zaznacz go i kliknij przycisk *„Otwórz”*. Talia powinna zostać zaimportowana.
 
 
 Ponadto może się przydać:
@@ -80,10 +80,10 @@ Od wersji *1.7* wprowadziłem **tagi** dzięki którym **dostosujesz bazę do W�
 
 
 ### Jak to zrobić?
-1. W *Ankim* na komputerze klikasz *"Przeglądaj"*.
+1. W *Ankim* na komputerze klikasz *„Przeglądaj”*.
 2. Po lewej stronie znajdziesz listę tagów wszystkich używanych przez Ciebie bez (niestety są pomieszane). Zapamiętaj (lub zapisz Sobie na boku) nazwy tych spośród nich, które prezentują nieinteresujące Cię tematy.
 3. Wyczyść pole wyszukiwania w górnej części okna, a następnie wklej doń następujące polecenie (wraz z cudzysłowem; jako *"nazwa"* wpisz dokładną nazwę tagu który Cię nie interesuje): `"deck:Poszerzaj słownictwo - PL » « PL" tag:nazwa`.   
-4, Potwierdź "enterem", po czym zaznacz wszystkie wyświetlone po prawej karty - najprościej klikając na którąkolwiek z nich, a następnie *CTRL+A* z klawiatury - oraz przycisk *"Usuń"* w prawej górnej części okna.
+4, Potwierdź ‚enterem’, po czym zaznacz wszystkie wyświetlone po prawej karty - najprościej klikając na którąkolwiek z nich, a następnie *CTRL+A* z klawiatury - oraz przycisk *"Usuń"* w prawej górnej części okna.
 5. Powtórz kroki *3* i *4* dla pozostałych nieinteresujących Cię tagów.
 6. Zamknij okno programu.
 
@@ -100,7 +100,7 @@ Opracowując karty wyjaśniające poszczególne terminy posiłkowałem się najc
 Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sugestie, pisz śmiało na adres <ohhtjm@gmail.com> .
 
 
-## Historia wydań ("kamienie milowe"):
+## Historia wydań („kamienie milowe”):
 1. v.1.0  
 07.10.2015 | 125 kart.
 2. v.1.1  
@@ -135,6 +135,8 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 09.06.2019 | 649 kart,
 17. v.2.5  
 14.09.2019 | 672 karty;
+18. v.2.6  
+11.12.2019 | 683 karty;
 
 
 
