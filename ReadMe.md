@@ -134,7 +134,7 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 16. v.2.4  
 09.06.2019 | 649 kart,
 17. v.2.5  
-14.09.2019 | 672 karty;
+14.09.2019 | 672 karty,
 18. v.2.6  
 11.12.2019 | 683 karty;
 
