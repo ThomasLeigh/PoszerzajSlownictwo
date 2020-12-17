@@ -10,7 +10,7 @@ https://github.com/ThomasLeigh/PoszerzajSlownictwo
 https://github.com/ThomasLeigh/PoszerzajSlownictwo/commits/master
 
 > „kamienie milowe”:  
-**v.2.7 - 10.09.2020 | 696 kart.**  
+**v.2.8 - 17.12.2020 | 710 kart.**  
 https://github.com/ThomasLeigh/PoszerzajSlownictwo/releases
 
 > Przydatne informacje (metoda nauki, program Anki, itp.):    
@@ -136,9 +136,11 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 17. v.2.5  
 14.09.2019 | 672 karty,
 18. v.2.6  
-11.12.2019 | 683 karty;
+11.12.2019 | 683 karty,
 19. v.2.7  
-10.09.2020 | 696 kart;
+10.09.2020 | 696 kart,
+20. v.2.8  
+17.12.2020 | 710 kart;
 
 
 
