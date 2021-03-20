@@ -10,8 +10,7 @@ https://github.com/ThomasLeigh/PoszerzajSlownictwo
 https://github.com/ThomasLeigh/PoszerzajSlownictwo/commits/master
 
 > „kamienie milowe”:  
-**v.2.8 - 17.12.2020 | 710 kart.**  
-https://github.com/ThomasLeigh/PoszerzajSlownictwo/releases
+**v.2.9 - 20.03.2021 | 723 karty.**  
 
 > Przydatne informacje (metoda nauki, program Anki, itp.):    
 https://github.com/ThomasLeigh/PoszerzajSlownictwo
@@ -140,7 +139,9 @@ Jeżeli chcesz podzielić się wrażeniami z używania bazy lub masz jakieś sug
 19. v.2.7  
 10.09.2020 | 696 kart,
 20. v.2.8  
-17.12.2020 | 710 kart;
+17.12.2020 | 710 kart.
+20. v.2.8  
+20.03.2021 | 723 karty;
 
 
 
@@ -150,13 +151,13 @@ Pozdrawiam oraz życzę miłej zabawy!
 
 
 
-[1]: http://thomascafepodcast.blogspot.com/2016/12/sposob-na-przyswajanie-nowego-sownictwa.html#post
+[1]: https://pelnemysli.trailofthelight.xyz/sposob-na-przyswajanie-nowego-slownictwa
 	"Sposób na przyswajanie nowego słownictwa."
 
-[2]: http://thomascafepodcast.blogspot.com/2016/12/co-najbardziej-pomaga-mi-w-nauce-jezyka.html#post
-	"Co najbardziej pomaga Mi w nauce języka?"
+[2]: https://pelnemysli.trailofthelight.xyz/co-najbardziej-pomaga-mi-w-nauce-jezyka
+	"Co najbardziej pomaga mi w nauce języka?"
 
-[3]: http://moliumpodcast.blogspot.com/2015/11/molium-10-dolores-cannon-poszerzanie.html#post
+[3]: https://pelnemysli.trailofthelight.xyz/najbardziej-frapujace-koncepty-dolores-cannon-poszerzanie-zasobu-slownictwa
 	"O Ankim w audycji Molium."
 
 [4]: http://moliumpodcast.blogspot.com/2015/10/poszerzaj-swoj-zasob-sownictwa-z-anki.html#post
